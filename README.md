@@ -16,6 +16,6 @@ The mount contract is mainly divided into 3 parts: **deployer**, **factory**, **
 
 **factory**: It is convenient for users who hold deployer NFTs to quickly deploy agencies and apps
 
-## official website
+## Official Website
 
 https://mountprotocol.xyz/
