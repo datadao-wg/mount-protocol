@@ -45,6 +45,7 @@ The mount contract is mainly divided into 3 parts: **deployer**, **factory**, **
 smart contracts in wrap protocol
 
 [ERCs/ERCS/erc-7527.md at lanyinzly-patch-1 · lanyinzly/ERCs (github.com)](https://github.com/lanyinzly/ERCs/blob/lanyinzly-patch-1/ERCS/erc-7527.md)
+
 **Permanent storage contract:**
 
 1.Datadao can manage Renewal operation of DealID of data.
