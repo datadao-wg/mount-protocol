@@ -8,13 +8,17 @@ Vision:**Open Finance First, Open Data Second, Open AI Third**
 
 We’re developing Mount, an Filecoin protocol that establishes DataDAO with algorithmically set interest rates; users and dApps will be able to earn interest on FIL and tokens, and borrow Ether and tokens to invest, use, or short-sell.
 
-The mount contract is mainly divided into 3 parts: **deployer**, **factory**, **agency**
+The Mount protocol is a set of rules and procedures that govern the creation, issuance, and management of assets within the decentralized autonomous organization (DAO) focused on data management and governance.
 
-**deployer**: mount the passport of the protocol, only the deployer can provide the protocol to deploy NFTs
+1.**Asset Creation**: The protocol outlines the process for creating new assets within the Data DAO. This may include data tokens, data shares, or other digital assets that represent ownership or access rights to data within the DAO.
 
-**agency**: A pool of funds, where the ERC20 tokens minted by users will be stored in the agency
+2.**Issuance**: The protocol defines the rules for issuing new assets to members of the DAO. This may involve a token sale, airdrop, or other distribution methods, and will include guidelines for determining the quantity and distribution of new assets.
 
-**factory**: It is convenient for users who hold deployer NFTs to quickly deploy agencies and apps
+3.**Governance**: The protocol establishes the governance structure for managing and making decisions about the assets within the Data DAO. This may include voting mechanisms, decision-making processes, and rules for modifying or updating the protocol itself.
+
+4.**Compliance**: The protocol ensures that all asset creation, issuance, and governance activities are compliant with relevant regulations and best practices. This may involve legal review, compliance checks, and ongoing monitoring of asset activities.
+5.**Transparency**: The protocol requires that all asset creation, issuance, and governance activities are transparent and accessible to all members of the Data DAO. This may include public records, open meetings, and regular reporting on asset activities.
+Overall, the Asset Creation, Issuance, and Governance Protocol for Data DAO is designed to ensure that the creation and management of assets within the DAO are fair, transparent, and compliant with relevant regulations. By following these rules and procedures, the Data DAO can effectively manage and govern its assets to achieve its goals of data management and governance.
 
 ## Related contracts
 
