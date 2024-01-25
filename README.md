@@ -2,7 +2,7 @@
 
 <img src="./img/mount-protocol-logo.png" width="100px">
 
-# protocol
+# Mount protocol
 
 **An Asset Creation,Issuance and Governance Protocol for Data DAO**
 
