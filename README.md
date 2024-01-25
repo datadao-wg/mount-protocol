@@ -1,8 +1,24 @@
-# Mount protocol
+![](./img/31777729.png)
+
+# protocol
+
+**An Asset Creation,Issuance and Governance Protocol for Data DAO**
 
 Mission:**Building Finance first Data DAO Asset Creation and Issuance Protocol**
 
 Vision:**Open Finance First, Open Data Second, Open AI Third**
+
+#### problems: 
+
+First , the Internet has made distribution (of digital goods) free, neutralizing the advantage that pre-Internet distributors leveraged to integrate with suppliers. Secondly, the Internet has made transaction costs zero, making it viable for a distributor to integrate forward with end users/consumers at scale.
+
+#### solutions:
+
+We give people partial ownership of the network. Just like equity in a startup, it is more valuable to join the network early because users get more ownership. Decentralized applications do this by paying their contributors in their token. And there is potential for that token (partial ownership of the network) to be worth more in the future. This is equivalent to being a miner in the early days of Bitcoin. When the network is less populated and useful ,you will have a stronger incentive to join it.
+
+#### keys:
+
+When The flywheel of network effects apply to a decentralized organization or network, decentralized governance can act as the flywheel of network effects. As more participants join and contribute to the network, the decentralized governance model allows for more diverse perspectives and ideas to be considered in decision-making. This inclusivity can lead to better decisions, increased trust, and a stronger sense of community, which in turn attracts more participants, further strengthening the network effects.
 
 ## Contribute
 
