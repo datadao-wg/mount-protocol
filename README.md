@@ -1,4 +1,4 @@
-![](./img/mount-protocol-logo.png)
+
 
 <img src="./img/mount-protocol-logo.png" width="100px">
 
